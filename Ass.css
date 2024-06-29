@@ -1,0 +1,49 @@
+body{
+    background-image:url("../ilugram/Img/backg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+.ilugram{
+    background:rgba(50, 150, 150, 0.7);
+    margin:50px;
+    margin-top:15px ;   
+    padding: 10px ;
+    text-align:center;
+    text-color:FF0000;
+}
+h1{
+    text-align:center;
+    color: Yellow;
+}
+input{
+    background:Yellow;
+    border:none;
+    border-bottom:3px solid white;
+    font-size:15px;
+    color:white;
+    
+           }
+label{
+    color:rgb(100, 200, 0) ;
+}
+  #ass{
+     text-align: center;
+     color:Green;
+       }
+   
+button{
+   font-size:25px;
+   background-color:green;
+   width:130px;
+   height:40px;
+   text-color:yellow;
+   align:center;
+   border:none;
+   border-radius:65px;
+}
